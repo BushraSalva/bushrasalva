@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**BushraSalva/bushrasalva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm BushraSalva
 
-Here are some ideas to get you started:
+## IT Specialist | Service Desk & Desktop Support Engineer
+I am an IT Support Professional with a passion for system administration, desktop automation, and infrastructure optimization. I use GitHub to document my enterprise labs, automation scripts, and technical documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skill Matrix
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Operating Systems** | Windows Server, Windows 10/11, macOS, Linux |
+| **Directory & Cloud** | Active Directory, Microsoft 365, Entra ID (Azure AD), GPO |
+| **Automation & Management** | PowerShell, Bash, Winget, Intune / SCCM |
+| **Networking & Protocols** | TCP/IP, DNS, DHCP, VPN, VLANs |
+| **ITSM & Ticketing** | ServiceNow, Jira Service Desk, Zendesk |
+
+
+---
+
+
